@@ -27,12 +27,16 @@ A Rust-based trivia game with encrypted point storage, where players earn points
    - Sled embedded database  
    - Atomic transactions  
 
-### Roadmap
-| Component          | Checkpoint 1 (MM/DD)       | Checkpoint 2 (MM/DD)       |
-|--------------------|----------------------------|----------------------------|
-| Game Logic         | Basic Q&A flow             | Hints + Points implemented |
-| Encryption         | Plaintext scoring          | Full AES implementation    |
-| UI                 | CLI interface              | WebSocket API              |
+
+
+### Roadmap 
+
+| Component       | Check Point 1                | Check Point 2                |
+|-----------------|-------------------------------|-------------------------------|
+| **Game Core**   | - basic questions<br>- Point tracking<br>- Terminal input/output | - Hint purchasing system<br>- Difficulty scaling<br>- Score persistence |
+| **Encryption**| - Mock encryption stub<br>- Basic point storage          |  - AES-256 implementation<br>- Secure key management<br>         |
+| **Interface**   | - Simple text menus           | - Colored question display    |
+
 
 ## Possible Challenges
 1. **Cross-platform Crypto**  
