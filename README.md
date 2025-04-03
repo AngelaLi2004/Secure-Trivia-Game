@@ -1,14 +1,14 @@
 # Project Name: Secure Trivia Game
 
 ## Group Information
-- **Group Name**: [Your Team Name] 
+- **Group Name**: Cryptic Wizards 
 - **Members**:
-  - Hakeem 
+  - Hakeem Muritala (NETID:hmuri)
   - Angela Li (NETID:meixian2)
 
 ## Project Introduction
 **Description**:  
-A Rust-based trivia game with encrypted point storage, where players earn points by answering questions and can later redeem them.  
+A Rust-based trivia game with encrypted point storage, where players earn points by answering questions and can later redeem them to use towards hints for the trivia game.  
 
 **Why Rust?**  
 - Memory safety for secure encryption  
