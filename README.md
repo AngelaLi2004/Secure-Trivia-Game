@@ -30,7 +30,7 @@ A Rust-based trivia game with encrypted point storage, where players earn points
 ### Roadmap
 | Component          | Checkpoint 1 (MM/DD)       | Checkpoint 2 (MM/DD)       |
 |--------------------|----------------------------|----------------------------|
-| Game Logic         | Basic Q&A flow             | Multiplayer support        |
+| Game Logic         | Basic Q&A flow             | Hints + Points implemented |
 | Encryption         | Plaintext scoring          | Full AES implementation    |
 | UI                 | CLI interface              | WebSocket API              |
 
