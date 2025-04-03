@@ -42,5 +42,3 @@ A Rust-based trivia game with encrypted point storage, where players earn points
 3. **Question Variety**  
    Dynamic loading of new question packs  
 
-## References
-1. 
