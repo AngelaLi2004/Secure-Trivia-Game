@@ -41,4 +41,4 @@ A Rust-based trivia game with encrypted point storage, where players earn points
    Handling concurrent point claims safely  
 3. **Question Variety**  
    Dynamic loading of new question packs  
-
+   Question variety for certain categories
