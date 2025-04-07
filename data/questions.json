@@ -1,0 +1,32 @@
+[
+    {
+      "category": "Science",
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "O2", "CO2", "H2"],
+      "answer": "H2O"
+    },
+    {
+      "category": "History",
+      "question": "Who was the first President of the United States?",
+      "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+      "answer": "George Washington"
+    },
+    {
+      "category": "Mathematics",
+      "question": "What is the square root of 64?",
+      "options": ["6", "8", "10", "12"],
+      "answer": "8"
+    },
+    {
+      "category": "Geography",
+      "question": "What is the capital of Japan?",
+      "options": ["Seoul", "Beijing", "Tokyo", "Bangkok"],
+      "answer": "Tokyo"
+    },
+    {
+      "category": "Sports",
+      "question": "Which country won the 2018 FIFA World Cup?",
+      "options": ["Brazil", "Germany", "France", "Argentina"],
+      "answer": "France"
+    }
+]
