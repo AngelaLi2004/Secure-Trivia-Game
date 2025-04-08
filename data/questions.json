@@ -1,32 +1,552 @@
 [
-    {
-      "category": "Science",
-      "question": "What is the chemical symbol for water?",
-      "options": ["H2O", "O2", "CO2", "H2"],
-      "answer": "H2O"
-    },
-    {
-      "category": "History",
-      "question": "Who was the first President of the United States?",
-      "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
-      "answer": "George Washington"
-    },
-    {
-      "category": "Mathematics",
-      "question": "What is the square root of 64?",
-      "options": ["6", "8", "10", "12"],
-      "answer": "8"
-    },
-    {
-      "category": "Geography",
-      "question": "What is the capital of Japan?",
-      "options": ["Seoul", "Beijing", "Tokyo", "Bangkok"],
-      "answer": "Tokyo"
-    },
-    {
-      "category": "Sports",
-      "question": "Which country won the 2018 FIFA World Cup?",
-      "options": ["Brazil", "Germany", "France", "Argentina"],
-      "answer": "France"
-    }
+  {
+    "category": "Geography",
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Seoul",
+      "Beijing",
+      "Tokyo",
+      "Bangkok"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "Geography",
+    "question": "Which would be found at 39 degrees 43 minutes North latitude?",
+    "options": [
+      "The Tropic of Cancer",
+      "The Tropic of Capricorn",
+      "The majority of the Mason-Dixon Line.",
+      "The border between Canada and Washington State."
+    ],
+    "answer": 2
+  },
+  {
+    "category": "Geography",
+    "question": "Which country held the record for the highest birth rate in the 2005 world statistics?",
+    "options": [
+      "Niger",
+      "Uganda",
+      "Mali",
+      "Vatican City"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "Geography",
+    "question": "How many US states border the Gulf of Mexico?",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "10"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "Geography",
+    "question": "Measuring at the Equator, what is the closest approximation of the Earth's circumference?",
+    "options": [
+      "24,900,000 miles",
+      "24,900 miles",
+      "249,000 miles",
+      "2,490,000 miles"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "Geography",
+    "question": "The people of which country watched the most TV per week in 2005?",
+    "options": [
+      "Thailand",
+      "The Philippines",
+      "The USA",
+      "Egypt"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "Geography",
+    "question": "How many US states border the Pacific Ocean?",
+    "options": [
+      "11",
+      "4",
+      "5",
+      "3"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "Geography",
+    "question": "Which one of these ski resorts is not located in the Alps?",
+    "options": [
+      "Kitzbuhel",
+      "Zermatt",
+      "Mont-Tremblant",
+      "Chamonix-Mont-Blanc"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "Geography",
+    "question": "The tallest mountain peak in the US is Mount McKinley. This is the second tallest.",
+    "options": [
+      "Mount Saint Elias",
+      "Glacier Peak",
+      "Mount Washington",
+      "Gannett Peak"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "Geography",
+    "question": "Which one of these mountains is not a volcano?",
+    "options": [
+      "Mauna Kea",
+      "Mount St. Helens",
+      "Mount Vesuvius",
+      "Mount Aspiring"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "History",
+    "question": "Who was the first President of the United States?",
+    "options": [
+      "Abraham Lincoln",
+      "George Washington",
+      "Thomas Jefferson",
+      "John Adams"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "History",
+    "question": "In which US state is the active Mount Rainier volcano located?",
+    "options": [
+      "Michigan",
+      "Ohio",
+      "Washington",
+      "New York"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "History",
+    "question": "In 1990, this 5000 year old body was found in the Alps. Scientists discovered some tattoos on his leg which indicated that acupuncture was used as far back as the Copper-stone Age.",
+    "options": [
+      "Big Foot",
+      "Sasquatch",
+      "Nessie",
+      "Oetzi"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "History",
+    "question": "After unsuccessful talks about oil production and debt repayment, Iraq occupied Kuwait. In January 1991 the US launched an air attack against military targets in Iraq and Kuwait in this operation.",
+    "options": [
+      "Matador",
+      "BOLERO",
+      "Determined Force",
+      "Desert Storm"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "History",
+    "question": "It is the process of producing identical copies of a DNA segment asexually. In 1996 the first successful one of an animal was made. The animal's name was Dolly. Dolly later died, but Richard Seed announced that he intended to try it on humans.",
+    "options": [
+      "Organ Transplant",
+      "Cloning",
+      "Bloodless Surgery",
+      "Laser Surgery"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "History",
+    "question": "This kind of music became largely popular in Europe and America in the 1990s. It is a melodic, free form combination between techno and house, having hypnotic qualities. The first distinctive track of this kind was Age Of Love, released in 1990.",
+    "options": [
+      "Electro",
+      "Trance",
+      "Techno",
+      "Dance"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "History",
+    "question": "This woman's death was arguably the most shocking one of the decade. She died in 1997 in a car crash while evading paparazzi. The woman was taken to a hospital, but the two-hour efforts of surgeons to save her life were unsuccessful.",
+    "options": [
+      "Greta Garbo",
+      "Nancy Marchand",
+      "Madam C. J. Walker",
+      "Princess Diana"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "History",
+    "question": "This union, made up of European countries, was established by the Maastricht Treaty in 1992. Starting as a trade body it is now an economic and political partnership between its members.",
+    "options": [
+      "American Labor Union",
+      "Oxford Union",
+      "The European Union",
+      "European Trade Union"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "History",
+    "question": "Although the first one was sent in 1971, it became widely popular in 1998. Its popularity caused explosive growth of the internet.",
+    "options": [
+      "The Chat programs",
+      "The URL",
+      "The E-mail",
+      "The Website"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "History",
+    "question": "Impeachment stands for quickly removing dangerously criminal officials from high office. The Impeachment Trial in the Senate for this US President commenced on January 7, 1999.",
+    "options": [
+      "George Bush",
+      "Ronald Reagan",
+      "Bill Clinton",
+      "Richard Nixon"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "Science",
+    "question": "What is the chemical symbol for water?",
+    "options": [
+      "H2O",
+      "O2",
+      "CO2",
+      "H2"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "Science",
+    "question": "Clouds are made up of these.",
+    "options": [
+      "Carbon atoms",
+      "Water droplets and ice crystals",
+      "Oxygen ions",
+      "Dust mites"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "Science",
+    "question": "This formation is a conical hill or mountain. It is formed by mantle material being pressed through an opening in the Earth's crust.",
+    "options": [
+      "A volcano",
+      "A hill",
+      "An earthquake",
+      "A geyser"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "Science",
+    "question": "Japan suffers from this event very often. It is the sudden, light or violent movement of the earth's surface caused by the release of energy in the earth's crust.",
+    "options": [
+      "Volcano",
+      "Earthquake",
+      "Tide",
+      "Tsunami"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "Science",
+    "question": "It is the only continent that does not have land areas below sea level.",
+    "options": [
+      "Australia",
+      "South America",
+      "Antarctica",
+      "Arctica"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "Science",
+    "question": "It is the longest river in the world.",
+    "options": [
+      "Themes",
+      "The Amazon",
+      "The Nile",
+      "Danube"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "Science",
+    "question": "Why do travelers to La Paz, Bolivia, often become ill as soon as they arrive?",
+    "options": [
+      "Because of the high temperature",
+      "Because of the humidity",
+      "Because of the soil quality",
+      "Because of the altitude"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "Science",
+    "question": "In the US, why do we change our clocks on the daylight saving time dates in April and October?",
+    "options": [
+      "To conserve energy",
+      "To increase the hours of the day",
+      "To extend the working day",
+      "Because the tourist period in most countries starts in May"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "Science",
+    "question": "These are places of arid land with really low rainfall and high temperature variation. Their vegetation is insignificant and the population of people and animals is very limited.",
+    "options": [
+      "Oceans",
+      "Raiforests",
+      "The equator",
+      "Deserts"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "Science",
+    "question": "This is a gemstone made by fossilized tree sap that is at least 30 million years old.",
+    "options": [
+      "Obsidian",
+      "Amber",
+      "Tourmaline",
+      "Malachite"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "Sports",
+    "question": "Which WWF group does this theme music belong to?",
+    "options": [
+      "Nation of Domination",
+      "D-Generation X",
+      "Legion of Doom",
+      "Hart Foundation"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "Sports",
+    "question": "What position is former Major League Baseball player, Rollie Fingers famous for playing?",
+    "options": [
+      "Catcher",
+      "First Base",
+      "Pitcher",
+      "Third Base"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "Sports",
+    "question": "What position is former baseball player for the Cincinnati Reds, Johnny Bench famous for playing?",
+    "options": [
+      "Second Base",
+      "Shortstop",
+      "Catcher",
+      "Pitcher"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "Sports",
+    "question": "Baltimore Orioles, Cal Ripken Jr. is most known for playing what position?",
+    "options": [
+      "Right Field",
+      "Catcher",
+      "Pitcher",
+      "Shortstop"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "Sports",
+    "question": "Steve Garvey is a famous former baseball player, who is known for playing what position?",
+    "options": [
+      "First Base",
+      "Shortstop",
+      "Third Base",
+      "Catcher"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "Sports",
+    "question": "What position is former Major League Baseball player, Joe Morgan most known to have played?",
+    "options": [
+      "Outfield",
+      "None of these",
+      "Second Base",
+      "Catcher"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "Sports",
+    "question": "What position is former professional baseball player, Mike Schmidt famous for playing?",
+    "options": [
+      "Pitcher",
+      "Catcher",
+      "Third Base",
+      "Second Base"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "Sports",
+    "question": "Which of these positions is former baseball player, Dwight Evans most famous for?",
+    "options": [
+      "Right Field",
+      "Pitcher",
+      "Second Base",
+      "Center Field"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "Sports",
+    "question": "Successful Major League Baseball player and coach, Donald Edward Don Gullett, was famous for playing what position?",
+    "options": [
+      "Pitcher",
+      "Second Base",
+      "Right Field",
+      "Catcher"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "Sports",
+    "question": "Which position did Babe Ruth play before becoming famous as a home-run hitter?",
+    "options": [
+      "Pitcher",
+      "First Base",
+      "Right Field",
+      "Shortstop"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "Mathematics",
+    "question": "What is the square root of 64?",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "Mathematics",
+    "question": "What is the value of pi rounded to two decimal places?",
+    "options": [
+      "3.14",
+      "3.15",
+      "3.16",
+      "3.13"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "Mathematics",
+    "question": "What is 12 \u00d7 12?",
+    "options": [
+      "124",
+      "144",
+      "134",
+      "154"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "Mathematics",
+    "question": "What is the derivative of x^2?",
+    "options": [
+      "x",
+      "2x",
+      "x^2",
+      "2"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "Mathematics",
+    "question": "If you flip a fair coin, what is the probability of getting heads?",
+    "options": [
+      "1/4",
+      "1/2",
+      "1",
+      "2"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "Mathematics",
+    "question": "What is 15% of 200?",
+    "options": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "Mathematics",
+    "question": "What is the next prime number after 7?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "Mathematics",
+    "question": "What is the area of a circle with radius 3? (Use \u03c0 \u2248 3.14)",
+    "options": [
+      "28.26",
+      "18.84",
+      "9.42",
+      "21.99"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "Mathematics",
+    "question": "What is the factorial of 5?",
+    "options": [
+      "20",
+      "100",
+      "120",
+      "60"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "Mathematics",
+    "question": "What is 2 to the power of 5?",
+    "options": [
+      "32",
+      "64",
+      "16",
+      "48"
+    ],
+    "answer": 0
+  }
 ]
