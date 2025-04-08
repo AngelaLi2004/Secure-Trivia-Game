@@ -46,3 +46,8 @@ A Rust-based trivia game with encrypted point storage, where players earn points
 3. **Question Variety**  
    Dynamic loading of new question packs  
    Question variety for certain categories
+
+## references 
+1. **Trivia Data Set**  
+   https://github.com/uberspot/OpenTriviaQA/tree/master
+   
