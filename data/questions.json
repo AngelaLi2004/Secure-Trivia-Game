@@ -8,7 +8,10 @@
       "Tokyo",
       "Bangkok"
     ],
-    "answer": 2
+    "answer": 2,
+    "points": 5,
+    "hintCost": 2,
+    "hint": "It's the largest city in Japan and hosted the 2020 Summer Olympics."
   },
   {
     "category": "Geography",
@@ -19,7 +22,10 @@
       "The majority of the Mason-Dixon Line.",
       "The border between Canada and Washington State."
     ],
-    "answer": 2
+    "answer": 2,
+    "points": 10,
+    "hintCost": 5,
+    "hint": "It's the largest city in Japan and hosted the 2020 Summer Olympics."
   },
   {
     "category": "Geography",
@@ -30,7 +36,10 @@
       "Mali",
       "Vatican City"
     ],
-    "answer": 0
+    "answer": 0,
+    "points": 5,
+    "hintCost": 2,
+    "hint": "It's the largest city in Japan and hosted the 2020 Summer Olympics."
   },
   {
     "category": "Geography",
@@ -41,7 +50,10 @@
       "5",
       "10"
     ],
-    "answer": 2
+    "answer": 2,
+    "points": 5,
+    "hintCost": 2,
+    "hint": "It's the largest city in Japan and hosted the 2020 Summer Olympics."
   },
   {
     "category": "Geography",
@@ -52,7 +64,10 @@
       "249,000 miles",
       "2,490,000 miles"
     ],
-    "answer": 1
+    "answer": 1,
+    "points": 30,
+    "hintCost": 15,
+    "hint": "It's the largest city in Japan and hosted the 2020 Summer Olympics."
   },
   {
     "category": "Geography",
@@ -63,7 +78,10 @@
       "The USA",
       "Egypt"
     ],
-    "answer": 0
+    "answer": 0,
+    "points": 5,
+    "hintCost": 2,
+    "hint": "It's the largest city in Japan and hosted the 2020 Summer Olympics."
   },
   {
     "category": "Geography",
@@ -74,7 +92,10 @@
       "5",
       "3"
     ],
-    "answer": 2
+    "answer": 2,
+    "points": 5,
+    "hintCost": 2,
+    "hint": "It's the largest city in Japan and hosted the 2020 Summer Olympics."
   },
   {
     "category": "Geography",
@@ -85,7 +106,10 @@
       "Mont-Tremblant",
       "Chamonix-Mont-Blanc"
     ],
-    "answer": 2
+    "answer": 2,
+    "points": 5,
+    "hintCost": 2,
+    "hint": "It's the largest city in Japan and hosted the 2020 Summer Olympics."
   },
   {
     "category": "Geography",
@@ -96,7 +120,10 @@
       "Mount Washington",
       "Gannett Peak"
     ],
-    "answer": 0
+    "answer": 0,
+    "points": 5,
+    "hintCost": 2,
+    "hint": "It's the largest city in Japan and hosted the 2020 Summer Olympics."
   },
   {
     "category": "Geography",
@@ -107,7 +134,10 @@
       "Mount Vesuvius",
       "Mount Aspiring"
     ],
-    "answer": 3
+    "answer": 3,
+    "points": 5,
+    "hintCost": 2,
+    "hint": "It's the largest city in Japan and hosted the 2020 Summer Olympics."
   },
   {
     "category": "History",
@@ -118,7 +148,9 @@
       "Thomas Jefferson",
       "John Adams"
     ],
-    "answer": 1
+    "answer": 1,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "History",
@@ -129,7 +161,9 @@
       "Washington",
       "New York"
     ],
-    "answer": 2
+    "answer": 2,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "History",
@@ -140,7 +174,9 @@
       "Nessie",
       "Oetzi"
     ],
-    "answer": 3
+    "answer": 3,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "History",
@@ -151,7 +187,9 @@
       "Determined Force",
       "Desert Storm"
     ],
-    "answer": 3
+    "answer": 3,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "History",
@@ -162,7 +200,9 @@
       "Bloodless Surgery",
       "Laser Surgery"
     ],
-    "answer": 1
+    "answer": 1,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "History",
@@ -173,7 +213,9 @@
       "Techno",
       "Dance"
     ],
-    "answer": 1
+    "answer": 1,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "History",
@@ -184,7 +226,9 @@
       "Madam C. J. Walker",
       "Princess Diana"
     ],
-    "answer": 3
+    "answer": 3,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "History",
@@ -195,7 +239,9 @@
       "The European Union",
       "European Trade Union"
     ],
-    "answer": 2
+    "answer": 2,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "History",
@@ -206,7 +252,9 @@
       "The E-mail",
       "The Website"
     ],
-    "answer": 2
+    "answer": 2,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "History",
@@ -217,7 +265,9 @@
       "Bill Clinton",
       "Richard Nixon"
     ],
-    "answer": 2
+    "answer": 2,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Science",
@@ -228,7 +278,9 @@
       "CO2",
       "H2"
     ],
-    "answer": 0
+    "answer": 0,
+    "points": 10,
+    "hintCost": 5
   },
   {
     "category": "Science",
@@ -239,7 +291,9 @@
       "Oxygen ions",
       "Dust mites"
     ],
-    "answer": 1
+    "answer": 1,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Science",
@@ -250,7 +304,9 @@
       "An earthquake",
       "A geyser"
     ],
-    "answer": 0
+    "answer": 0,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Science",
@@ -261,7 +317,9 @@
       "Tide",
       "Tsunami"
     ],
-    "answer": 1
+    "answer": 1,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Science",
@@ -272,7 +330,9 @@
       "Antarctica",
       "Arctica"
     ],
-    "answer": 2
+    "answer": 2,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Science",
@@ -283,7 +343,9 @@
       "The Nile",
       "Danube"
     ],
-    "answer": 2
+    "answer": 2,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Science",
@@ -294,7 +356,9 @@
       "Because of the soil quality",
       "Because of the altitude"
     ],
-    "answer": 3
+    "answer": 3,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Science",
@@ -305,7 +369,9 @@
       "To extend the working day",
       "Because the tourist period in most countries starts in May"
     ],
-    "answer": 0
+    "answer": 0,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Science",
@@ -316,7 +382,9 @@
       "The equator",
       "Deserts"
     ],
-    "answer": 3
+    "answer": 3,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Science",
@@ -327,7 +395,9 @@
       "Tourmaline",
       "Malachite"
     ],
-    "answer": 1
+    "answer": 1,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Sports",
@@ -338,7 +408,9 @@
       "Legion of Doom",
       "Hart Foundation"
     ],
-    "answer": 1
+    "answer": 1,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Sports",
@@ -349,7 +421,9 @@
       "Pitcher",
       "Third Base"
     ],
-    "answer": 2
+    "answer": 2,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Sports",
@@ -360,7 +434,9 @@
       "Catcher",
       "Pitcher"
     ],
-    "answer": 2
+    "answer": 2,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Sports",
@@ -371,7 +447,9 @@
       "Pitcher",
       "Shortstop"
     ],
-    "answer": 3
+    "answer": 3,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Sports",
@@ -382,7 +460,9 @@
       "Third Base",
       "Catcher"
     ],
-    "answer": 0
+    "answer": 0,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Sports",
@@ -393,7 +473,9 @@
       "Second Base",
       "Catcher"
     ],
-    "answer": 2
+    "answer": 2,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Sports",
@@ -404,7 +486,9 @@
       "Third Base",
       "Second Base"
     ],
-    "answer": 2
+    "answer": 2,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Sports",
@@ -415,7 +499,9 @@
       "Second Base",
       "Center Field"
     ],
-    "answer": 0
+    "answer": 0,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Sports",
@@ -426,7 +512,9 @@
       "Right Field",
       "Catcher"
     ],
-    "answer": 0
+    "answer": 0,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Sports",
@@ -437,7 +525,9 @@
       "Right Field",
       "Shortstop"
     ],
-    "answer": 0
+    "answer": 0,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Mathematics",
@@ -448,7 +538,9 @@
       "10",
       "12"
     ],
-    "answer": 1
+    "answer": 1,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Mathematics",
@@ -459,7 +551,9 @@
       "3.16",
       "3.13"
     ],
-    "answer": 0
+    "answer": 0,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Mathematics",
@@ -470,7 +564,9 @@
       "134",
       "154"
     ],
-    "answer": 1
+    "answer": 1,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Mathematics",
@@ -481,7 +577,9 @@
       "x^2",
       "2"
     ],
-    "answer": 1
+    "answer": 1,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Mathematics",
@@ -492,7 +590,9 @@
       "1",
       "2"
     ],
-    "answer": 1
+    "answer": 1,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Mathematics",
@@ -503,7 +603,9 @@
       "35",
       "40"
     ],
-    "answer": 1
+    "answer": 1,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Mathematics",
@@ -514,7 +616,9 @@
       "10",
       "11"
     ],
-    "answer": 3
+    "answer": 3,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Mathematics",
@@ -525,7 +629,9 @@
       "9.42",
       "21.99"
     ],
-    "answer": 0
+    "answer": 0,
+    "points": 5,
+    "hintCost": 2
   },
   {
     "category": "Mathematics",
@@ -536,7 +642,9 @@
       "120",
       "60"
     ],
-    "answer": 2
+    "answer": 2,
+    "points": 30,
+    "hintCost": 15
   },
   {
     "category": "Mathematics",
@@ -547,6 +655,8 @@
       "16",
       "48"
     ],
-    "answer": 0
+    "answer": 0,
+    "points": 10,
+    "hintCost": 5
   }
 ]

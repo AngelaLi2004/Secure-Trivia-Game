@@ -1,0 +1,16 @@
+/Users/hakeemmuritala/Desktop/cs128/Project/Secure-Trivia-Game/target/debug/deps/libunic_bidi-41237fa18ade689c.rmeta: /Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/lib.rs /Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/pkg_info.rs /Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/format_chars.rs /Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/level.rs /Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/bidi_info.rs /Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/explicit.rs /Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/implicit.rs /Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/prepare.rs
+
+/Users/hakeemmuritala/Desktop/cs128/Project/Secure-Trivia-Game/target/debug/deps/unic_bidi-41237fa18ade689c.d: /Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/lib.rs /Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/pkg_info.rs /Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/format_chars.rs /Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/level.rs /Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/bidi_info.rs /Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/explicit.rs /Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/implicit.rs /Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/prepare.rs
+
+/Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/lib.rs:
+/Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/pkg_info.rs:
+/Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/format_chars.rs:
+/Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/level.rs:
+/Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/bidi_info.rs:
+/Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/explicit.rs:
+/Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/implicit.rs:
+/Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unic-bidi-0.9.0/src/prepare.rs:
+
+# env-dep:CARGO_PKG_DESCRIPTION=UNIC — Unicode Bidirectional Algorithm
+# env-dep:CARGO_PKG_NAME=unic-bidi
+# env-dep:CARGO_PKG_VERSION=0.9.0

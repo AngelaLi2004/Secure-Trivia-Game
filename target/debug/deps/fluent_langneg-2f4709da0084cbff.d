@@ -1,0 +1,8 @@
+/Users/hakeemmuritala/Desktop/cs128/Project/Secure-Trivia-Game/target/debug/deps/libfluent_langneg-2f4709da0084cbff.rmeta: /Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluent-langneg-0.13.0/src/lib.rs /Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluent-langneg-0.13.0/src/accepted_languages.rs /Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluent-langneg-0.13.0/src/negotiate/mod.rs /Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluent-langneg-0.13.0/src/negotiate/likely_subtags.rs
+
+/Users/hakeemmuritala/Desktop/cs128/Project/Secure-Trivia-Game/target/debug/deps/fluent_langneg-2f4709da0084cbff.d: /Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluent-langneg-0.13.0/src/lib.rs /Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluent-langneg-0.13.0/src/accepted_languages.rs /Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluent-langneg-0.13.0/src/negotiate/mod.rs /Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluent-langneg-0.13.0/src/negotiate/likely_subtags.rs
+
+/Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluent-langneg-0.13.0/src/lib.rs:
+/Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluent-langneg-0.13.0/src/accepted_languages.rs:
+/Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluent-langneg-0.13.0/src/negotiate/mod.rs:
+/Users/hakeemmuritala/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fluent-langneg-0.13.0/src/negotiate/likely_subtags.rs:
