@@ -150,7 +150,8 @@
     ],
     "answer": 1,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "He appears on the one-dollar bill."
   },
   {
     "category": "History",
@@ -163,7 +164,8 @@
     ],
     "answer": 2,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "This state is also home to Seattle."
   },
   {
     "category": "History",
@@ -176,7 +178,8 @@
     ],
     "answer": 3,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "His name starts with 'O' and ends with 'zi'."
   },
   {
     "category": "History",
@@ -189,7 +192,8 @@
     ],
     "answer": 3,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "The name of the operation contains the word 'Desert'."
   },
   {
     "category": "History",
@@ -202,7 +206,8 @@
     ],
     "answer": 1,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "The technique used to create Dolly the sheep."
   },
   {
     "category": "History",
@@ -215,7 +220,8 @@
     ],
     "answer": 1,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "This genre shares its name with a mental state of deep focus or hypnosis."
   },
   {
     "category": "History",
@@ -228,7 +234,8 @@
     ],
     "answer": 3,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "She was a British royal and the mother of Princes William and Harry."
   },
   {
     "category": "History",
@@ -241,7 +248,8 @@
     ],
     "answer": 2,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "It shares an abbreviation with 'EU'."
   },
   {
     "category": "History",
@@ -254,7 +262,8 @@
     ],
     "answer": 2,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "You probably check this every day — it's a digital letter."
   },
   {
     "category": "History",
@@ -267,7 +276,8 @@
     ],
     "answer": 2,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "This president had a scandal involving Monica Lewinsky."
   },
   {
     "category": "Science",
@@ -280,7 +290,8 @@
     ],
     "answer": 0,
     "points": 10,
-    "hintCost": 5
+    "hintCost": 5,
+    "hint": "It's the most well-known chemical formula in the world — two hydrogen, one oxygen."
   },
   {
     "category": "Science",
@@ -293,7 +304,8 @@
     ],
     "answer": 1,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "Think of rain and snow — both are forms of this."
   },
   {
     "category": "Science",
@@ -306,7 +318,8 @@
     ],
     "answer": 0,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "It erupts and spews lava from inside the Earth."
   },
   {
     "category": "Science",
@@ -319,7 +332,8 @@
     ],
     "answer": 1,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "Japan is located on the Pacific Ring of Fire."
   },
   {
     "category": "Science",
@@ -332,7 +346,8 @@
     ],
     "answer": 2,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "This icy continent has the South Pole."
   },
   {
     "category": "Science",
@@ -345,7 +360,8 @@
     ],
     "answer": 2,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "This river flows through northeastern Africa and is longer than the Amazon."
   },
   {
     "category": "Science",
@@ -358,7 +374,8 @@
     ],
     "answer": 3,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "La Paz is one of the world’s highest capital cities."
   },
   {
     "category": "Science",
@@ -371,7 +388,8 @@
     ],
     "answer": 0,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "The goal is to save electricity by shifting the clock."
   },
   {
     "category": "Science",
@@ -384,7 +402,8 @@
     ],
     "answer": 3,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "These areas are known for being hot and dry."
   },
   {
     "category": "Science",
@@ -397,7 +416,8 @@
     ],
     "answer": 1,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "It’s fossilized tree resin — think Jurassic Park."
   },
   {
     "category": "Sports",
@@ -410,7 +430,8 @@
     ],
     "answer": 1,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "This rebellious group had an 'X' in its name."
   },
   {
     "category": "Sports",
@@ -423,7 +444,8 @@
     ],
     "answer": 2,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "He was a famous mustached relief pitcher."
   },
   {
     "category": "Sports",
@@ -436,7 +458,8 @@
     ],
     "answer": 2,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "He caught pitches for the Cincinnati Reds."
   },
   {
     "category": "Sports",
@@ -449,7 +472,8 @@
     ],
     "answer": 3,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "He played shortstop for the Orioles and broke the consecutive games played record."
   },
   {
     "category": "Sports",
@@ -462,7 +486,8 @@
     ],
     "answer": 0,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "He was most known for playing first base for the Dodgers and Padres."
   },
   {
     "category": "Sports",
@@ -475,7 +500,8 @@
     ],
     "answer": 2,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "He played second base and was a two-time MVP."
   },
   {
     "category": "Sports",
@@ -488,7 +514,8 @@
     ],
     "answer": 2,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "He was a Hall of Fame third baseman for the Phillies."
   },
   {
     "category": "Sports",
@@ -501,7 +528,8 @@
     ],
     "answer": 0,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "He was a powerful right fielder for the Red Sox."
   },
   {
     "category": "Sports",
@@ -514,7 +542,8 @@
     ],
     "answer": 0,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "He was a left-handed pitcher and later a coach."
   },
   {
     "category": "Sports",
@@ -527,7 +556,8 @@
     ],
     "answer": 0,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "Before he became a slugger, he was a pitcher for the Red Sox."
   },
   {
     "category": "Mathematics",
@@ -540,7 +570,8 @@
     ],
     "answer": 1,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "What number times itself equals 64?"
   },
   {
     "category": "Mathematics",
@@ -553,7 +584,8 @@
     ],
     "answer": 0,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "It is 3.1415926...."
   },
   {
     "category": "Mathematics",
@@ -566,7 +598,8 @@
     ],
     "answer": 1,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "It’s a common multiplication fact: 12 times 12."
   },
   {
     "category": "Mathematics",
@@ -579,7 +612,8 @@
     ],
     "answer": 1,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "The power rule for derivatives: d/dx of x^n = n*x^(n-1)."
   },
   {
     "category": "Mathematics",
@@ -592,7 +626,8 @@
     ],
     "answer": 1,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "There are two sides, and it’s equally likely."
   },
   {
     "category": "Mathematics",
@@ -605,7 +640,8 @@
     ],
     "answer": 1,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "Multiply 0.15 by 200."
   },
   {
     "category": "Mathematics",
@@ -618,7 +654,8 @@
     ],
     "answer": 3,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "It comes right after 7 and is only divisible by 1 and itself."
   },
   {
     "category": "Mathematics",
@@ -631,7 +668,8 @@
     ],
     "answer": 0,
     "points": 5,
-    "hintCost": 2
+    "hintCost": 2,
+    "hint": "Area of a circle = π × r², use r = 3 and π ≈ 3.14."
   },
   {
     "category": "Mathematics",
@@ -644,7 +682,8 @@
     ],
     "answer": 2,
     "points": 30,
-    "hintCost": 15
+    "hintCost": 15,
+    "hint": "Factorial means multiplying all integers from 1 to that number."
   },
   {
     "category": "Mathematics",
@@ -657,6 +696,7 @@
     ],
     "answer": 0,
     "points": 10,
-    "hintCost": 5
+    "hintCost": 5,
+    "hint": "2 × 2 × 2 × 2 × 2 equals this."
   }
 ]
