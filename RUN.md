@@ -11,10 +11,10 @@ Before you begin, make sure you have the following installed:
 - **Git** – for cloning the repository  
 - **Rust & Cargo** – for compiling and running the project  
 
-### 🔧 Check if they're installed
+### 🔧 Run Project
 
-1. Clone the Repository
+1. Clone the Repository:
 git clone https://github.com/AngelaLi2004/Secure-Trivia-Game
 
-2. Run the Project
+2. Run the Project:
 cargo run
