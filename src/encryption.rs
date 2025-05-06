@@ -4,19 +4,9 @@ pub struct Encryptor {
 /// The `Encryptor` struct provides a simple XOR-based encryption and decryption mechanism.
 /// It holds a single-byte key that is used to encrypt and decrypt integer data.
 ///
-/// XOR encryption works by applying the bitwise exclusive OR (XOR) operation between the data and the key.
-/// This operation is symmetric, meaning applying XOR with the same key twice returns the original data.
-///
-/// For example:
-/// - Encryption: encrypted = data ^ key
-/// - Decryption: decrypted = encrypted ^ key
-///
-/// Because XOR is its own inverse, the same function can be used for both encryption and decryption.
-///
-/// This method is very fast and lightweight, suitable for simple obfuscation tasks like protecting
-/// player points in a game, but it is not secure against serious cryptographic attacks.
-///
-/// The key is a single byte (`u8`), which is cast to `i32` to match the data type before XOR-ing.
+/// The encrypt method flips certain bits in the number using XOR with the key.
+/// The decrypt method flips those same bits again using the same XOR key.
+/// Exclusive OR (XOR)
 
 impl Encryptor {
     pub fn new(key: u8) -> Self {
